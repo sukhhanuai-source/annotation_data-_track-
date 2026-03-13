@@ -6,3 +6,6 @@ __pycache__/
 *.pyd
 .Python
 .pytest_cache/
+.dvc/tmp/
+.dvc/cache/
+.dvc/storage/
