@@ -2,4 +2,4 @@
     remote = storage
 
 [remote "storage"]
-    url = ./storage
+    url = s3://amzn-ra-databucket
